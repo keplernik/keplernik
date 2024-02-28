@@ -1,4 +1,1 @@
-Interested in frontend web development as well as simple software development.
-Useless websites enthusiast.
-I mainly use C# and JavaScript, as well as Python, HTML and CSS.
-Started learning programming in August 2023.
+Focused on game and front end development. Familiar with C# and JavaScript, currently learning C and TypeScript. Working on my own game at the moment. Beginner jumpscare.
