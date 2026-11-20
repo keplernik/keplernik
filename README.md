@@ -1,1 +1,1 @@
-I'm a software engineering major studying at West-Bohemian University of Pilsen interested in operating systems, networking and cybersecurity. I'm a programming beginner, currently familiar with Python and C# on a basic level and a bit of SQL. 
+Software engineering major interested in operating systems, IoT and anything low-level.
